@@ -1,3 +1,2 @@
-# vitejs-vite-ucfkgb
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-ucfkgb)
+# React Card project
+### Deploy en Vercel [Link al proyecto](https://react-card-blush.vercel.app/).
