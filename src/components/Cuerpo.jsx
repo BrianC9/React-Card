@@ -24,14 +24,15 @@ export default function Cuerpo(props) {
         <Buttons />
         <h4>About</h4>
         <p>
-          I am a frontend developer with a particular interest in making things
-          simple and automating daily tasks. I try to keep up with security and
-          best practices, and am always looking for new things to learn.
+          Hi, I'm Bryan.
+          I am a highly skilled software developer with training in application development and experience in the field.
+          I have a good understanding of programming languages and software development methodologies. I excel at working in teams and adapting to changing work environments.
+          I am looking for a job opportunity at a company where I can apply my skills and continue to grow.
         </p>
         <h4>Interests</h4>
         <p>
           Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-          Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+          Entrepreneur. Travel geek.  Coffee fanatic.
         </p>
       </main>
       <footer style={styleFooter}>
@@ -40,9 +41,6 @@ export default function Cuerpo(props) {
         />
         <Footer
           src={'https://img.icons8.com/ios-glyphs/344/4a90e2/github.png'}
-        />
-        <Footer
-          src={'https://img.icons8.com/ios-glyphs/344/4a90e2/twitter--v1.png'}
         />
         <Footer
           src={
