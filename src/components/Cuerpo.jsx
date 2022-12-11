@@ -36,12 +36,12 @@ export default function Cuerpo(props) {
         </p>
       </main>
       <footer style={styleFooter}>
-        <Footer
+        <a href="https://www.linkedin.com/in/bryan-cusme/" target="_blank"><Footer
           src={'https://img.icons8.com/ios-glyphs/344/4a90e2/linkedin.png'}
-        />
-        <Footer
+        /></a>
+        <a href="https://www.github.com/brianc9" target="_blank"><Footer
           src={'https://img.icons8.com/ios-glyphs/344/4a90e2/github.png'}
-        />
+        /></a>
         <Footer
           src={
             'https://img.icons8.com/ios-filled/344/4a90e2/internet-browser--v1.png'

@@ -6,8 +6,8 @@ export default function Buttons() {
 
   return (
     <div style={styleButtons}>
-      <button>📧 E-Mail</button>
-      <button>🌐 LinkedIn</button>
+      <a href="mailto:brianocm9@gmail.com" target="_blank"><button>📧 E-Mail</button></a>
+      <a href="https://www.linkedin.com/in/bryan-cusme/" target="_blank" ><button>🌐 LinkedIn</button></a>
     </div>
   );
 }
