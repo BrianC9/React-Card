@@ -26,8 +26,8 @@ export default function Cuerpo(props) {
         <p>
           Hi, I'm Bryan.
           I am a highly skilled software developer with training in application development and experience in the field.
-          I have a good understanding of programming languages and software development methodologies. I excel at working in teams and adapting to changing work environments.
-          I am looking for a job opportunity at a company where I can apply my skills and continue to grow.
+          I have a good understanding of programming languages and software development methodologies.<p> I excel at working in teams and adapting to changing work environments.
+            I am looking for a job opportunity at a company where I can apply my skills and continue to grow.</p>
         </p>
         <h4>Interests</h4>
         <p>
